@@ -1,4 +1,4 @@
-Trabalho 2: Simulação de Processamento de Pedidos em Pizzaria
+#Trabalho 2: Simulação de Processamento de Pedidos em Pizzaria
 Disciplina: Algoritmo e Estrutura de Dados I
 Semestre: 2024/01
 
